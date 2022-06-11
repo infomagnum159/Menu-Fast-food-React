@@ -1,0 +1,15 @@
+.Ingredient {
+    display: inline-block;
+    margin: 10px;
+    border: 1px solid #eee;
+    border-radius: 5px;
+    box-shadow: 0 2px 2px #ccc;
+    width: 295px;
+    padding: 20px;
+    cursor: pointer;
+    background-color: #cccccc;
+}
+.list {
+    width: 50px;
+    border-radius: 5px;
+}
