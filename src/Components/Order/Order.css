@@ -1,0 +1,27 @@
+li {
+    width: 300px;
+}
+.name, .quantity, .erase {
+    display: inline-block;
+}
+.name {
+    width: 50%;
+    text-align: left;
+}
+.price, .erase {
+    width: 18%;
+    text-align: center;
+}
+.quantity {
+    margin-left: 7px;
+    color: #1a4f0b;
+}
+.Order {
+    width: 300px;
+}
+.erase {
+    font-size: 20px;
+    cursor: pointer;
+    margin-left: 15px;
+    color: darkred;
+}
